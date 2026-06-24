@@ -1,5 +1,0 @@
-#For the future, I will need to open a terminal into the this folder and then activate the venv
-#with the source .venv/bin/activate and then I can run my file
-#On the Mac for the first time, I need to first open the folder, run python3.12 -m venv .venv and then
-#in after activating, I need to run pip install -r requirements.txt
-pygame==2.6.1
